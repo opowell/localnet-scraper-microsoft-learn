@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Microsoft Learn",
+      "urlPattern": "learn.microsoft.com"
+    }
+  ],
+  "file": "microsoft-learn.js"
+}
